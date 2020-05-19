@@ -21,7 +21,7 @@
         <docker.image.prefix>iasonenrollment</docker.image.prefix>
 
         <!--Set to name of project-->
-        <docker.image.name>cleon-eureka</docker.image.name>
+        <docker.image.name>iason-eureka</docker.image.name>
     </properties>
 
     <dependencies>
